@@ -1,0 +1,42 @@
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.csproj.AssemblyReference.cache
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.AssemblyInfoInputs.cache
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.AssemblyInfo.cs
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.csproj.CoreCompileInputs.cache
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.deps.json
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.runtimeconfig.json
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.exe
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.exe
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.deps.json
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.runtimeconfig.json
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.dll
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.pdb
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.dll
+E:\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.pdb
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.csproj.CopyComplete
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.dll
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\refint\YadSara.Service.dll
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.pdb
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.genruntimeconfig.cache
+E:\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\ref\YadSara.Service.dll
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.deps.json
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.runtimeconfig.json
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.exe
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.exe
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.deps.json
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.runtimeconfig.json
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.dll
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Service.pdb
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.dll
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\bin\Debug\net6.0\YadSara.Core.pdb
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.AssemblyInfo.cs
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara..E9E0E34F.Up2Date
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.dll
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\refint\YadSara.Service.dll
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.pdb
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\YadSara.Service.genruntimeconfig.cache
+T:\Group B\NetCore\תמר פנחסי\24.11.24\YadSara P\YadSara\YadSara.Service\obj\Debug\net6.0\ref\YadSara.Service.dll

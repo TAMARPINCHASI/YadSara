@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05EA\u05DE\u05E8 \u05E4\u05E0\u05D7\u05E1\u05D9\\24.11.24\\YadSara P\\YadSara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C46FFEA2-3DD9-4EDC-BE17-F65D6B76B413}|YadSara.Data\\YadSara.Data.csproj|t:\\group b\\netcore\\\u05EA\u05DE\u05E8 \u05E4\u05E0\u05D7\u05E1\u05D9\\24.11.24\\yadsara p\\yadsara\\yadsara.data\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46FFEA2-3DD9-4EDC-BE17-F65D6B76B413}|YadSara.Data\\YadSara.Data.csproj|solutionrelative:yadsara.data\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05EA\u05DE\u05E8 \u05E4\u05E0\u05D7\u05E1\u05D9\\24.11.24\\YadSara P\\YadSara\\YadSara.Data\\Repositories\\BorrowRepository.cs",
+              "RelativeDocumentMoniker": "YadSara.Data\\Repositories\\BorrowRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05EA\u05DE\u05E8 \u05E4\u05E0\u05D7\u05E1\u05D9\\24.11.24\\YadSara P\\YadSara\\YadSara.Data\\Repositories\\BorrowRepository.cs",
+              "RelativeToolTip": "YadSara.Data\\Repositories\\BorrowRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:42:07.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
